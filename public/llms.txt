@@ -1,0 +1,104 @@
+# אופק — Generative Engine Optimization Map
+
+> An online marketplace or e-commerce platform inspired by AliExpress — a large-scale product catalog site where multiple products or vendors can be listed, browsed, and purchased online. The vision includes a shopping cart, product pages, categories, and an overall multi-product retail experience.
+
+---
+
+## Pages
+
+### בית
+https://-2724da3a.zappy5.app
+השוק המקוון המוביל בישראל למכירת מוצרים אונליין – אלפי פריטים, מחירים ללא תחרות וחוויית קנייה חכמה. הצטרפו עכשיו וגלו את הדיל המושלם!
+
+### תכונות השוק
+https://-2724da3a.zappy5.app/features
+תכונות השוק של אופק חושפות עולם של כלים חכמים לניהול חנות, עגלת קניות מתקדמת וקטלוג מוצרים עצום. התחילו למכור ולקנות בצורה החכמה ביותר!
+
+### אודות
+https://-2724da3a.zappy5.app/about
+אופק נולדה כדי לשנות את חוויית מכירת מוצרים אונליין בישראל – פלטפורמה שמחברת בין מוכרים לקונים עם חזון, אמינות וחדשנות. הכירו את הצוות שמאחורי המהפכה!
+
+### צור קשר
+https://-2724da3a.zappy5.app/contact
+יש לכם שאלה על מכירת מוצרים אונליין או רוצים להצטרף לשוק של אופק? צרו קשר עכשיו – הצוות שלנו כאן כדי להפוך את העסק שלכם לסיפור הצלחה. מחכים לשמוע מכם!
+
+### Products
+https://-2724da3a.zappy5.app/products
+המוצרים שלנו - אופק
+
+### Cart
+https://-2724da3a.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-2724da3a.zappy5.app/checkout
+תשלום
+
+### Login
+https://-2724da3a.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-2724da3a.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-2724da3a.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-2724da3a.zappy5.app/product/:slug
+פרטי המוצר - אופק
+
+### Category
+https://-2724da3a.zappy5.app/category/:slug
+מוצרים - אופק
+
+### תודה על פנייתך
+https://-2724da3a.zappy5.app/thank-you
+אופק - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2724da3a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2724da3a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2724da3a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אופק
+An online marketplace or e-commerce platform inspired by AliExpress — a large-scale product catalog site where multiple products or vendors can be listed, browsed, and purchased online. The vision includes a shopping cart, product pages, categories, and an overall multi-product retail experience.
+
+## Target Audience
+- ציידי מציאות מקוונים
+- קונים בינלאומיים
+- קמעונאים עצמאיים
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-2724da3a.zappy5.app/sitemap.xml
+- Robots: https://-2724da3a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-2724da3a.zappy5.app/llms-full.txt
+- Products (JSON): https://-2724da3a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-2724da3a.zappy5.app/product-feed.xml
